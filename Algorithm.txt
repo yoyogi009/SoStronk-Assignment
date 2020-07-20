@@ -10,5 +10,5 @@ After successfully forming M vs M unique matches now I will sort out the matches
 
 6. For this I will perform the operations on the lists created in step 3. 
 7. First I will find the average scores all the combinations of M players that were made in step 4.
-8. Then based on unique matches of step4 , I will find the difference between the scores of each M vs M matches.
+8. Then based on unique matches of step 4 , I will find the difference between the scores of each M vs M matches.
 9. Then at last I will sort the matches according to their least scores differences.
