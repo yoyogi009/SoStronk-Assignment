@@ -3,12 +3,12 @@ Approach to solution:-
 1. I am going to use a dictionary to store the player name and scores. 
 2. I will make name as keys and scores as values, it is because names of players(userID) will always be unique while scores can be same.
 3. Then I will be putting the names and scores in their specific lists so that we can perform operations easily.(to be used in step 6)
-4. Now for making combinations of M vs M , I will be first make combinations of M players from all existing players.
+4. Now for making combinations of M vs M , I will first make combinations of M players from all existing players.
 5. After that I will figure out the unique pairs of M vs M matches.
 
 After successfully forming M vs M unique matches now I will sort out the matches based on their scores:-
 
 6. For this I will perform the operations on the lists created in step 3. 
 7. First I will find the average scores all the combinations of M players that were made in step 4.
-8. Then based on unique matches of step4 , I will be find the difference between the scores of each M vs M matches.
+8. Then based on unique matches of step4 , I will find the difference between the scores of each M vs M matches.
 9. Then at last I will sort the matches according to their least scores differences.
